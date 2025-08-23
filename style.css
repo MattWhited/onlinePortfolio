@@ -7,7 +7,7 @@ body {
     align-items: center;
     justify-content: space-evenly;
     background-color: lightskyblue;
-    
+    width: 100vw;
 }
 
 #hero {
@@ -56,7 +56,20 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-around;
+}
 
+#bubbleSort {
+    display: flex;
+    height: auto;
+    width: auto;
+    background-color: aquamarine;
+}
+
+#rockPaperScissors {
+    display: flex;
+    height: auto;
+    width: auto;
+    background-color: aquamarine;
 }
 
 #contact {
