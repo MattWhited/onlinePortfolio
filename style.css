@@ -6,5 +6,32 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-evenly;
+    background-color: lightskyblue;
+    
+}
+
+#hero {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: lightblue;
+}
+
+#heroBottom {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: lightskyblue;
+}
+
+#left {
+    display: flex;
+    align-items: center;
+}
+
+#right {
+    display: flex;
+    align-items: center;
     
 }
