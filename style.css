@@ -16,6 +16,8 @@ body {
     justify-content: center;
     flex-direction: column;
     background-color: lightblue;
+    height: 50vh;
+    width: 100vw;
 }
 
 #heroBottom {
@@ -23,6 +25,7 @@ body {
     align-items: center;
     justify-content: space-between;
     background-color: lightskyblue;
+    width: 100vw;
 }
 
 #left {
@@ -38,10 +41,22 @@ body {
 
 #about {
     background-color: lightblue;
+    height: 50vh;
+    width: 100vw;
 }
 
 #work {
     background-color: lightskyblue;
+    height: 50vh;
+    width: 100vw;
+
+}
+
+#javascript {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
 }
 
 #contact {
@@ -49,4 +64,6 @@ body {
     display: flex;
     align-items: center;
     flex-direction: column;
+    height: 50vh;
+    width: 100vw;
 }
