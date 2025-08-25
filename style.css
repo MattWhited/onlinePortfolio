@@ -58,12 +58,7 @@ body {
     justify-content: space-around;
 }
 
-#bubbleSort {
-    display: flex;
-    height: auto;
-    width: auto;
-    background-color: aquamarine;
-}
+
 
 #rockPaperScissors {
     display: flex;
@@ -79,4 +74,24 @@ body {
     flex-direction: column;
     height: 50vh;
     width: 100vw;
+}
+
+/* bubble sort styling starts here */
+
+#bubbleSort {
+    display: flex;
+    height: auto;
+    width: auto;
+    background-color: aquamarine;
+}
+
+.bar {
+    width: 5px;
+    background-color: black;
+    margin: 1px;
+}
+#container {
+    height: 200px;
+    display: flex;
+    align-items: flex-end;
 }
