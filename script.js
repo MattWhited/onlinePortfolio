@@ -2,7 +2,7 @@
 
 // bubbleSort project STARTS here.
 
-const n = 10;
+const n = 20;
 const array = [];
 
 init();
